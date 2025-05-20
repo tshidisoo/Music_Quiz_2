@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Theory Quiz Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Pitch names, Staff notation, Clefs, and Octaves</h1>
+            <div class="stats">
+                <div id="score">Score: <span>0</span></div>
+                <div id="progress">Question: <span>0/0</span></div>
+            </div>
+        </header>
+
+        <div id="welcome-screen">
+            <h2>Test Your Music Theory Knowledge!</h2>
+            <p>This quiz covers musical pitch notation including:</p>
+            <ul>
+                <li>Pitch names and piano keyboard layout</li>
+                <li>Octave designations</li>
+                <li>Staff notation</li>
+                <li>Clefs and their functions</li>
+                <li>Ledger lines</li>
+                <li>Relationship between notes and the piano</li>
+            </ul>
+            <button id="start-quiz" class="btn">Start Quiz</button>
+        </div>
+
+        <div id="quiz-container" style="display:none;">
+            <div id="question-container">
+                <div id="question">Question text will be here</div>
+                <div id="image-container"></div>
+                <div id="answer-buttons" class="btn-grid"></div>
+            </div>
+            <div class="controls">
+                <button id="next-btn" class="btn">Next</button>
+            </div>
+        </div>
+
+        <div id="results-screen" style="display:none;">
+            <h2>Quiz Complete!</h2>
+            <div id="final-score">Your score: <span>0</span></div>
+            <div id="feedback"></div>
+            <button id="restart-quiz" class="btn">Try Again</button>
+        </div>
+
+        <div class="note-image-container">
+            <div id="staff-note-display" style="display:none;">
+                <div class="staff">
+                    <div class="staff-line"></div>
+                    <div class="staff-line"></div>
+                    <div class="staff-line"></div>
+                    <div class="staff-line"></div>
+                    <div class="staff-line"></div>
+                    <div id="clef"></div>
+                    <div id="note"></div>
+                </div>
+            </div>
+            <div id="piano-container" style="display:none;">
+                <div class="piano">
+                    <div class="white-keys">
+                        <div class="key white" data-note="C"></div>
+                        <div class="key white" data-note="D"></div>
+                        <div class="key white" data-note="E"></div>
+                        <div class="key white" data-note="F"></div>
+                        <div class="key white" data-note="G"></div>
+                        <div class="key white" data-note="A"></div>
+                        <div class="key white" data-note="B"></div>
+                    </div>
+                    <div class="black-keys">
+                        <div class="key black" data-note="C#/Db"></div>
+                        <div class="key black" data-note="D#/Eb"></div>
+                        <div class="spacer"></div>
+                        <div class="key black" data-note="F#/Gb"></div>
+                        <div class="key black" data-note="G#/Ab"></div>
+                        <div class="key black" data-note="A#/Bb"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+1. What is the difference between a staff and a stave in music notation?
+   a) There is no difference - they are the same thing
+   b) A staff has 4 lines while a stave has 5 lines
+   c) A staff is used for vocal music while a stave is for instrumental music
+   d) A staff is horizontal while a stave is vertical
+
+2. How many spaces are there between the lines of a staff?
+   a) 3 spaces
+   b) 4 spaces
+   c) 5 spaces
+   d) 6 spaces
+
+3. When a note is written on a line of the staff, where does the line pass through the note?
+   a) The top of the note
+   b) The bottom of the note
+   c) The center of the note
+   d) The left side of the note
+
+4. What determines the pitch of a note on the staff?
+   a) The size of the note
+   b) The color of the note
+   c) The position of the note (higher or lower)
+   d) The shape of the note
+
+5. How are notes that are written above each other on the staff played?
+   a) They are played one after another
+   b) They are played at the same time
+   c) They are played in reverse order
+   d) They are played randomly
+
+6. What are ledger lines used for?
+   a) To connect different staves
+   b) To extend the staff for notes that are too high or low
+   c) To indicate the end of a musical phrase
+   d) To show the time signature
+
+7. How are the lines and spaces of the staff counted?
+   a) From top to bottom
+   b) From bottom to top
+   c) From left to right
+   d) From right to left
+
+8. What is the correct way to read notes on a staff?
+   a) From right to left
+   b) From top to bottom
+   c) From left to right
+   d) From bottom to top
+
+9. When a note is written in a space of the staff, how does it appear?
+   a) The note is split by the space
+   b) The note fills the entire space
+   c) The note is written above the space
+   d) The note is written below the space
+
+10. What is the plural form of both "staff" and "stave"?
+    a) staffs and staves
+    b) staves
+    c) staffs
+    d) staffes
+
+[Image: The staff - showing five horizontal lines]
+[Image: Notes in the staff - showing notes on lines and spaces]
+[Image: Note reading - showing notes played from left to right and simultaneously]
+[Image: Ledger lines - showing notes above and below the staff]
+[Image: Lines and spaces in the staff - showing counting from bottom to top] 
